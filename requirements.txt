@@ -27,7 +27,7 @@ pymongo==3.10.1
 pyOpenSSL==19.1.0
 pyxdg==0.25
 queuelib==1.5.0
-scrapy==1.7.3
+scrapy==1.8.1
 SecretStorage==2.3.1
 service-identity==18.1.0
 six==1.14.0
